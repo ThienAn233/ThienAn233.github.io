@@ -9,17 +9,20 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p text-align: center> 🧮CT Gia Dinh 17-20 </p>
-    <p text-align: center> ⚙️ME HCMUT 20-24    </p>
-    <p text-align: center> 🏙️HCM, Viet Nam     </p>
+    <p>        🧮CT Gia Dinh 17-20 </p>
+    <p>        ⚙️ME HCMUT 20-24    </p>
+    <p>        🏙️HCM, Viet Nam     </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+Hi, I'm An🌽.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I graduated with honors from the Mechanical Engineering program at Ho Chi Minh City University of Technology (2020-2024). Currently, I am delving into the fundamentals of control theory and optimal control theory 🔬.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am actively seeking for higher education opportunity in the fields of robotics, mechatronics, biomechanics, ...
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I love travel 🚊 and sport 🏊, I also enjoy cooking 🍜 and have a great passion for learning 📝.
+
+Feel free to contact me anytime by [email](an0906946088@gmail.com)!
