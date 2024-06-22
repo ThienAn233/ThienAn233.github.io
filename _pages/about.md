@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>🧮CT Gia Dinh 17-20 </p>
-    <p>⚙️ME HCMUT 20-24    </p>
-    <p>🏙️HCM, Viet Nam     </p>
+    <p text-align: center> 🧮CT Gia Dinh 17-20 </p>
+    <p text-align: center> ⚙️ME HCMUT 20-24    </p>
+    <p text-align: center> 🏙️HCM, Viet Nam     </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
