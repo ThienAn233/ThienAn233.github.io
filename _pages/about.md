@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>. <a href='#'>Control</a>.
 
