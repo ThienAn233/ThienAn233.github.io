@@ -3,15 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>. <a href='#'>Control</a>.
-
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="text-align: center;">🧮CT Gia Dinh 17-20 </p>
-    <p style="text-align: center;">⚙️ME HCMUT 20-24    </p>
-    <p style="text-align: center;">🏙️HCM, Viet Nam     </p>
+    <p style="text-align: center;">🧮 CT Gia Dinh 17-20 ClgT</p>
+    <p style="text-align: center;">⚙️ Mech.Eng HCMUT 20-24  </p>
+    <p style="text-align: center;">🏙️ Go Vap HCM, Viet Nam  </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
