@@ -67,42 +67,36 @@
   "certificates": [
     {
       "name": "Introduction to Programming with MATLAB",
-      "date": "2021-01-01",
       "issuer": "Coursera",
       "url": "https://coursera.org/share/cd95804628747e7bb4c60e13537aae80",
       "icon": "fa-solid fa-calculator"
     },
     {
       "name": "Python",
-      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/python",
       "icon": "fa-brands fa-python"
     },
     {
       "name": "Intro to machine learning",
-      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/intro-to-machine-learning",
       "icon": "fa-solid fa-diagram-project"
     },
     {
       "name": "Pandas",
-      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/pandas",
       "icon": "fa-solid fa-table"
     },
     {
       "name": "Data visualization",
-      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-visualization",
       "icon": "fa-solid fa-chart-simple"
     },
     {
       "name": "Data cleaning",
-      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-cleaning",
       "icon": "fa-solid fa-broom"
