@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nguyen Duc Thien An",
     "label": "B.S. Degree in Mechanical Engineering",
-    "image": "",
+    "image": "potrait.jpg",
     "email": "an0906946088@gmail.com",
     "phone": "(+84) 934-063-142",
     "url": "https://thienan233.github.io/",
@@ -14,8 +14,9 @@
       "name": "I.U.D Lab at HCMUT",
       "position": "Robotics Development Team",
       "url": "",
-      "startDate": "2021-06",
-      "endDate": "Now",
+      "image": "potrait.jpg",
+      "startDate": "2021-01-01",
+      "endDate": "now",
       "summary": "Study and develop control algorithms for quadruped robot and AGV",
       "highlights": ["Robotics", "Control"]
     },
@@ -23,8 +24,8 @@
       "name": "ABBRobotics VietNam",
       "position": "Internship",
       "url": "https://new.abb.com/products/robotics",
-      "startDate": "2022-06",
-      "endDate": "2022-09",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
       "summary": "Control 6-dof robot arm and delta robot. Use vision tools to pick and place object on conveyor belt with RAPID programing language",
       "highlights": ["Robotics"]
     }
@@ -35,8 +36,8 @@
       "location": "District 2, Ho Chi Minh, Viet Nam",
       "position": "Organizer",
       "url": "https://hcmut.edu.vn/news/item/8741",
-      "startDate": "2022-10",
-      "endDate": "2022-11",
+      "startDate": "2022-10-01",
+      "endDate": "2022-11-01",
       "summary": "Organizer for the event.",
       "highlights": []
     }
@@ -48,8 +49,8 @@
       "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology",
       "area": "Mechanical Engineering",
       "studyType": "B.S.",
-      "startDate": "2021",
-      "endDate": "2024",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01",
       "score": "3.4/4",
       "courses": []
     }
@@ -66,42 +67,42 @@
   "certificates": [
     {
       "name": "Introduction to Programming with MATLAB",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Coursera",
       "url": "https://coursera.org/share/cd95804628747e7bb4c60e13537aae80",
       "icon": "fa-solid fa-calculator"
     },
     {
       "name": "Python",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/python",
       "icon": "fa-brands fa-python"
     },
     {
       "name": "Intro to machine learning",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/intro-to-machine-learning",
       "icon": "fa-solid fa-diagram-project"
     },
     {
       "name": "Pandas",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/pandas",
       "icon": "fa-solid fa-table"
     },
     {
       "name": "Data visualization",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-visualization",
       "icon": "fa-solid fa-chart-simple"
     },
     {
       "name": "Data cleaning",
-      "date": "2021",
+      "date": "2021-01-01",
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-cleaning",
       "icon": "fa-solid fa-broom"
