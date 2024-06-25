@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nguyen Duc Thien An",
     "label": "B.S. Degree in Mechanical Engineering",
-    "image": "potrait.jpg",
+    "image": "image/potrait.jpg",
     "email": "an0906946088@gmail.com",
     "phone": "(+84) 934-063-142",
     "url": "https://thienan233.github.io/",
@@ -14,7 +14,7 @@
       "name": "I.U.D Lab at HCMUT",
       "position": "Robotics Development Team",
       "url": "",
-      "image": "potrait.jpg",
+      "image": "image/potrait.jpg",
       "startDate": "2021-01-01",
       "endDate": "now",
       "summary": "Study and develop control algorithms for quadruped robot and AGV",
