@@ -7,108 +7,104 @@
     "phone": "(+84) 934-063-142",
     "url": "https://thienan233.github.io/",
     "summary": "Experienced in robotics, reinforcement learning, mechanical engineering, computer vision.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "location": "Ho Chi Minh city, Viet Nam"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "I.U.D Lab at HCMUT",
+      "position": "Robotics Development Team",
+      "url": "",
+      "startDate": "2021-06",
+      "endDate": "Now",
+      "summary": "Study and develop control algorithms for quadruped robot and AGV",
+      "highlights": ["Robotics", "Control"]
+    },
+    {
+      "name": "ABBRobotics VietNam",
+      "position": "Internship",
+      "url": "https://new.abb.com/products/robotics",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Control 6-dof robot arm and delta robot. Use vision tools to pick and place object on conveyor belt with RAPID programing language",
+      "highlights": ["Robotics"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "BK marathon volunteer",
+      "location": "District 2, Ho Chi Minh, Viet Nam",
+      "position": "Organizer",
+      "url": "https://hcmut.edu.vn/news/item/8741",
+      "startDate": "2022-10",
+      "endDate": "2022-11",
+      "summary": "Organizer for the event.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Ho Chi Minh city University of Technology",
+      "location": "Ho Chi Minh city, Viet Nam",
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "3.4/4",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ho Chi Minh city Excellent student contest",
+      "date": "2020",
+      "awarder": "People's Committee of Binh Thanh District",
+      "url": "",
+      "summary": "2nd Prize"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Introduction to Programming with MATLAB",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/cd95804628747e7bb4c60e13537aae80",
+      "icon": "fa-solid fa-calculator"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Python",
+      "date": "2021",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/python",
+      "icon": "fa-brands fa-python"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Intro to machine learning",
+      "date": "2021",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/intro-to-machine-learning",
+      "icon": "fa-solid fa-diagram-project"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Pandas",
+      "date": "2021",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/pandas",
+      "icon": "fa-solid fa-table"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Data visualization",
+      "date": "2021",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-visualization",
+      "icon": "fa-solid fa-chart-simple"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Data cleaning",
+      "date": "2021",
+      "issuer": "Kaggle",
+      "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-cleaning",
+      "icon": "fa-solid fa-broom"
     }
   ],
   "publications": [
