@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ThienAn233
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ThienAn233/ANO
+  - ThienAn233/progressive_growing_GAN
+  - ThienAn233/quadrupbot_env
+  - ThienAn233/AGV_env
