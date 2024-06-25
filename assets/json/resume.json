@@ -1,12 +1,12 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "General Info": {
+    "name": "Nguyen Duc Thien An",
+    "label": "B.S. Degree in Mechanical Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "an0906946088@gmail.com",
+    "phone": "(+84) 934-063-142",
+    "url": "https://thienan233.github.io/",
+    "summary": "Experienced in robotics, reinforcement learning, mechanical engineering, computer vision.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
