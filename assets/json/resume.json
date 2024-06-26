@@ -105,15 +105,15 @@
       "icon": "fa-solid fa-broom"
     },
     {
-      "name": "IELTS 7.5",
-      "issuer": "British Council",
-      "url": "https://thienan233.github.io/assets/img/IELTS.jpg",
-      "icon": "fa-solid fa-language"
-    },
-    {
       "name": "GRE Quant 168",
       "issuer": "ETS",
       "url": "https://thienan233.github.io/assets/pdf/GRE.pdf",
+      "icon": "fa-solid fa-calculator"
+    },
+    {
+      "name": "IELTS 7.5",
+      "issuer": "British Council",
+      "url": "https://thienan233.github.io/assets/img/IELTS.jpg",
       "icon": "fa-solid fa-language"
     }
   ],
@@ -170,7 +170,7 @@
     },
     {
       "name": "3D Printing",
-      "icon": "fa-solid fa-code",
+      "icon": "fa-solid fa-cube",
       "keywords": [
         "Parameters setting",
         "Fine-tuning",
