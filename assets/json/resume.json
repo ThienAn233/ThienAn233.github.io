@@ -103,6 +103,12 @@
       "issuer": "Kaggle",
       "url": "https://www.kaggle.com/learn/certification/nguyenducthienan/data-cleaning",
       "icon": "fa-solid fa-broom"
+    },
+    {
+      "name": "IELTS",
+      "issuer": "British Council",
+      "url": "https://thienan233.github.io/assets/img/IELTS.jpg",
+      "icon": "fa-solid fa-language"
     }
   ],
   "publications": [
@@ -145,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "VietNamese",
       "fluency": "Native speaker",
       "icon": ""
     },
