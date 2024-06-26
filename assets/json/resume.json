@@ -105,9 +105,15 @@
       "icon": "fa-solid fa-broom"
     },
     {
-      "name": "IELTS",
+      "name": "IELTS 7.5",
       "issuer": "British Council",
       "url": "https://thienan233.github.io/assets/img/IELTS.jpg",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "name": "GRE Quant 168",
+      "issuer": "ETS",
+      "url": "https://thienan233.github.io/assets/pdf/GRE.pdf",
       "icon": "fa-solid fa-language"
     }
   ],
