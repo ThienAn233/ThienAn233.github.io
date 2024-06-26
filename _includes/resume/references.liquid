@@ -16,7 +16,9 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+              <a href="{{ content.url }}">{{ content.name }}</a>
+            </td>
           </tr>
           <tr>
             <td></td>
