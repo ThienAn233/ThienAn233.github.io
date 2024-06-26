@@ -136,16 +136,57 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Microsoft Office Skills",
+      "icon": "fa-solid fa-file",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Word",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Programming Language",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "C++"
+      ]
+    },
+    {
+      "name": "3D Modelling",
+      "icon": "fa-solid fa-cube",
+      "keywords": [
+        "AutoCad",
+        "Inventor",
+        "Nastran"
+      ]
+    },
+    {
+      "name": "3D Printing",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Parameters setting",
+        "Fine-tuning",
+        "Fast Modelling"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Pytorch",
+        "Scikit-learn",
+        "Keras"
+      ]
+    },
+    {
+      "name": "Reinforcement Learning",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Stable Baseline",
+        "Gymnasium",
+        "Pybullet"
       ]
     }
   ],
