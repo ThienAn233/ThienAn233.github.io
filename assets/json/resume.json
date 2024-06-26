@@ -210,28 +210,36 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robotics locomotion",
+        "Legged robot",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "Control",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Control Theory",
+        "Optimal control",
+        "Reinforcement Learning"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Luu Thanh Tung",
+      "url":"https://www.researchgate.net/profile/Tung-Luu-2",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Head of Construction and Lifting Machinery Department, Mechanical Engineering falcuty, HCMUT. He is also in charge of the I.U.D laboratory, focusing on robotics, AI and Medical device research"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Nguyen Huu Loc",
+      "icon": "fa-solid fa-laptop",
+      "url": "https://www.researchgate.net/profile/Huu-Loc-Nguyen",
+      "reference": "Former head of the Mechanical Engineering falcuty. His study focus on Manufacturing, Mechanical Engineering, Materials Engineering"
     }
   ],
   "projects": [
