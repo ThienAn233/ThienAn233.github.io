@@ -19,9 +19,11 @@ social: false # includes social icons at the bottom of the page
 ---
 Hi, I'm An🌽.
 
-Currently, I am pursuing a Master's degree in [Mechatronics Systems and Robotics](https://www.nmt.edu/academics/mecheng/graduate-1.php) at [New Mexico Tech](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology) (2024-Now).
+Currently, I am pursuing a Master's degree in [Mechatronic Systems and Robotics](https://www.nmt.edu/academics/mecheng/graduate-1.php) at [New Mexico Tech](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology) (2024-Now).
 
-I graduated with honors from the [Mechanical Engineering program](https://fme.hcmut.edu.vn/) at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024). Currently, I am delving into the fundamentals of control theory and optimal control 🔬.
+I graduated with honors from the [Mechanical Engineering program](https://fme.hcmut.edu.vn/) at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024).
+
+My interests include the fundamentals of control theory and optimal control 🔬.
 
 I love wandering 🚊, playing sports 🏊. I also enjoy cooking 🍜 and have a great passion for learning 📝.
 
