@@ -11,7 +11,7 @@ profile:
     <p>-🎓 M.S MechSys & Robotics NMT</p>
     <p>-⚙️ B.S MechEng HCMUT (21-24)</p>
     <p>-🧮 CT Gia Dinh High (17-20) </p>
-    <p>-🏙️ Go Vap, H.C.M, Viet Nam </p>
+    <p>-🏙️ Socorro, NM, U.S.A </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,7 @@ Currently, I am pursuing a Master's degree in [Mechatronic Systems and Robotics]
 
 I graduated with honors from the [Mechanical Engineering program](https://fme.hcmut.edu.vn/) at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024).
 
-My interests include the fundamentals of control theory and optimal control 🔬.
+My interests include the fundamentals of control theory, dynamical systems, and data-driven modelling  🔬.
 
 I love wandering 🚊, playing sports 🏊. I also enjoy cooking 🍜 and have a great passion for learning 📝.
 
