@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>. <a href='#'>Control</a>.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>-🎓 M.S MechSys & Robotics NMT</p>
