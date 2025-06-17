@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>. <a href='#'>Control</a>.
+subtitle: <a href='#'>Control Theory</a>. <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>.
 profile:
   align: right
   image: prof_pic.png
@@ -17,6 +17,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+> God is the best control theorist
+
 Hi, I'm An🌽.
 
 Currently, I am pursuing a Master's degree in [Mechatronic Systems and Robotics](https://www.nmt.edu/academics/mecheng/graduate-1.php) at [New Mexico Tech](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology) (2024-Now).
