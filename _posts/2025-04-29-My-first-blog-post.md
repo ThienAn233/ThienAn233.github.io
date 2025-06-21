@@ -14,12 +14,12 @@ Cả ba và mẹ mình đều sinh ra và lớn lên ở Quảng Ngãi rồi và
 Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ. Vậy nên khi viết một bài về giấc mơ Mỹ và thực tế thì mình sẽ có một góc nhìn đủ thực tế để bám vào và nêu lên suy nghĩ cá nhân. Bài viết này có mục đích chính là để bản thân mình viết ra được những suy nghĩ đã tồn đọng trong lòng từ lâu, chính xác hơn là từ khi qua đây học, còn mục đích phụ là để lưu lại một vài dòng tâm sự, vì mình cũng ấp ủ việc có một trang blog từ khá là lâu rồi.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" class="img-fluid rounded z-depth-1" caption="A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all."%}
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" class="img-fluid rounded z-depth-1" %}
   </swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Tản mạn về những năm cấp 2, 3 và đại học
@@ -28,6 +28,15 @@ Nếu như Ân của bây giờ có vẻ bình tĩnh, trưởng thành thì Ân 
 Năm cấp 2, lúc này thì cũng chưa nghĩ gì nhiều đến tương lai. Vẫn không biết mình muốn gì, hay thích gì, nhưng lúc đó, trong tiềm thức mình đã có một đam mê mãnh liệt với môn toán. Thế là năm lớp 8 mình ôn thi vào đội tuyển toán của trường. Cấp 2 thì việc ôn luyện đội tuyển khá đơn giản, cơ bản thì sẽ có một lớp ôn luyện do trường tổ chức, ai muốn tham gia cũng được, và lớp học này sẽ trang bị kiến thức cho kỳ thi tuyển cấp trường. Năm đó, thầy Hòa là người dạy lớp ôn luyện, chủ đề chính là giải phương trình bậc 3 bằng phương pháp cardano, cùng với bổ đề hình thang. Nếu đúng theo quy trình thì chỉ cần ôn đủ các bài tập mà thầy cho thì sẽ giải được đề và đậu đội tuyển cấp trường. Nhưng bản thân mình thì lại nghĩ đề sẽ ra những chủ đề khác, và bài tập chỉ để luyện cách tư duy, thế là mình bỏ công ra đọc sách ôn luyện của nhà giáo Vũ Hữu Bình. Điều gì đến cũng phải đến, mình trượt đội tuyển toán trường. Cả tuần đấy chỉ toàn nước mắt, bao nhiêu tâm huyết đổ sông đổ bể. Sau đó thi được một vé vớt vào đội tuyển lý của trường và thi tới cấp quận, nhưng đam mê với toán vẫn còn. Thế là mình xin vào học lớp chuyên đề của thầy Hòa để ôn toán chuyên thi lên cấp ba cùng với Giang và Khoa (Khoa này chơi thân với mình lên đại học và đến bây giờ luôn). Dùi mài kinh sử đến thế, nhưng cuối cùng mình cũng chỉ đủ điểm để đậu chuyên Toán Gia Định với 2.5 điểm, trên điểm liệt 0.25. Những cái trêu ngươi năm cấp 2 phần nào giúp mình hiểu ra sự cố gắng của bản thân chưa đủ, và bản tính kiêu ngạo, bất cần vẫn còn nhiều bên trong mình.
 
 Cấp 3, khoảng thời gian đẹp nhất đời người cùng với 10CT, 11CT, 12CT tại Gia Định - Thạnh Mỹ Tây. Mình gặp những con người mà đến tận bây giờ vẫn giữ liên lạc thường xuyên. Lên cấp 3 
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_5940.JPG" class="img-fluid rounded z-depth-1" %}
+  </swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0979.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 ## Mình đến Mỹ như thế nào
 
