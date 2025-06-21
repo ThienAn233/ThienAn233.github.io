@@ -16,15 +16,15 @@ Cả ba và mẹ mình đều sinh ra và lớn lên ở Quảng Ngãi rồi và
 Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ. Vậy nên khi viết một bài về giấc mơ Mỹ và thực tế thì mình sẽ có một góc nhìn đủ thực tế để bám vào và nêu lên suy nghĩ cá nhân. Bài viết này có mục đích chính là để bản thân mình viết ra được những suy nghĩ đã tồn đọng trong lòng từ lâu, chính xác hơn là từ khi qua đây học, còn mục đích phụ là để lưu lại một vài dòng tâm sự, vì mình cũng ấp ủ việc có một trang blog từ khá là lâu rồi.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" class="img-fluid rounded z-depth-1" %}
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" height="400" class="img-fluid rounded z-depth-1" %}
   <div class="caption">
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
   </div>
   </swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Tản mạn về những năm cấp 2, 3 và đại học
