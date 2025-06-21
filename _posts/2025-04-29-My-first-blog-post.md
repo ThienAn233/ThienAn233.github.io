@@ -30,8 +30,8 @@ Năm cấp 2, lúc này thì cũng chưa nghĩ gì nhiều đến tương lai. V
 Cấp 3, khoảng thời gian đẹp nhất đời người cùng với 10CT, 11CT, 12CT tại Gia Định - Thạnh Mỹ Tây. Mình gặp những con người mà đến tận bây giờ vẫn giữ liên lạc thường xuyên. Lên cấp 3 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_5940.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0979.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_5640.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_5979.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
