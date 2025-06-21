@@ -8,3 +8,10 @@ assets/js/search/*.js
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
+_pages/about.md
+_pages/dropdown.md
+_posts/2025-04-29-My-first-blog-post.md
+_posts/test.md
+_projects/project1.md
+_projects/simple_cart_pole.md
+assets/json/resume.json
