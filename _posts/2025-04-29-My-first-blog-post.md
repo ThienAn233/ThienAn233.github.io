@@ -5,6 +5,8 @@ date: 2025-04-29 12:23:00
 description: My first blog post
 tags: thoughts perspective
 categories: adulthood
+images:
+  slider: true
 ---
 ## Một chút về bản thân
 Tên của mình là Ân, Nguyễn Đức Thiên Ân. Mình sinh ra và lớn lên tại thành phố Hồ Chí Minh, hay gọi một cách gần gũi hơn là Sài Gòn. Mình khá ít nói và hướng nội, chí ít là với những người mình không tiếp xúc nhiều hay người lạ, nhưng với những người thật sự thân và tin tưởng thì mình lại nói nhiều kinh khủng. Mình thích đọc và sưu tầm truyện Nguyễn Nhật Ánh, thích đi bơi những hôm trời nóng và khi rảnh thì lang thang khám phá Sài Gòn.
@@ -15,6 +17,9 @@ Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" class="img-fluid rounded z-depth-1" %}
+  <div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+  </div>
   </swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" class="img-fluid rounded z-depth-1" %}</swiper-slide>
