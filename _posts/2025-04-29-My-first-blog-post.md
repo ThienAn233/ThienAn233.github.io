@@ -15,6 +15,8 @@ Cả ba và mẹ mình đều sinh ra và lớn lên ở Quảng Ngãi rồi và
 
 Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ. Vậy nên khi viết một bài về giấc mơ Mỹ và thực tế thì mình sẽ có một góc nhìn đủ thực tế để bám vào và nêu lên suy nghĩ cá nhân. Bài viết này có mục đích chính là để bản thân mình viết ra được những suy nghĩ đã tồn đọng trong lòng từ lâu, chính xác hơn là từ khi qua đây học, còn mục đích phụ là để lưu lại một vài dòng tâm sự, vì mình cũng ấp ủ việc có một trang blog từ khá là lâu rồi.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" height="400" class="img-fluid rounded z-depth-1" %}
   <div class="caption">
@@ -26,7 +28,8 @@ Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
+    </div>
+</div>
 ## Tản mạn về những năm cấp 2, 3 và đại học
 Nếu như Ân của bây giờ có vẻ bình tĩnh, trưởng thành thì Ân của những năm cấp 2, 3 lại vô cùng tăng động, nổi loạn. Nhưng mà cuộc đời đâu như mơ, nó vả cho mình những cú khá đau để có thể trưởng thành như ngày hôm nay. 
 
