@@ -18,15 +18,15 @@ Hiện giờ mình đang sống và học tập tại Socorro, New Mexico, Mỹ.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" height="400" class="img-fluid rounded z-depth-1" %}
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_1069.JPG" style="width: 400px; height: auto;" class="img-fluid rounded z-depth-1" %}
   <div class="caption">
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
   </div>
   </swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" height="400" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0982.JPG" style="width: 400px; height: auto;" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0549.JPG" style="width: 400px; height: auto;" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0548.JPG" style="width: 400px; height: auto;" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blog/2025-04-29-My-first-blog-post/IMG_0546.JPG" style="width: 400px; height: auto;" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
     </div>
 </div>
