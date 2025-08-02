@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ThienAn233.github.iohttps://ThienAn233.github.io/sitemap.xml
+Sitemap: https://ThienAn233.github.io/sitemap.xml
