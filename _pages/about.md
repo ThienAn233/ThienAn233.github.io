@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-> God is the best control theorist.
+> "God is the ultimate Control Theorist, for all creation follows His perfect design of order and stability."
 
 Hi, I'm An🌽.
 

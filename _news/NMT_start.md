@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started graduate studies in Mechatronic Systems and Robotics at New Mexico Tech in 2024.
+Started graduate study in Mechatronic Systems and Robotics at New Mexico Tech in 2024.
