@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Control Theory</a>. <a href='#'>Robotics</a>. <a href='#'>Mechanical Engineering</a>.
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>-🎓 M.S MechSys & Robotics NMT</p>
@@ -13,7 +13,7 @@ profile:
     <p>-🧮 CT Gia Dinh High (17-20) </p>
     <p>-🏙️ Socorro, NM, U.S.A </p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
