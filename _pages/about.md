@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>-🎓 M.S MechSys & Robotics NMT</p>
-    <p>-⚙️ B.S MechEng HCMUT (21-24)</p>
+    <p>-⚙️ B.S MechEng HCMUT (20-24)</p>
     <p>-🧮 CT Gia Dinh High (17-20) </p>
     <p>-🏙️ Socorro, NM, U.S.A </p>
 
