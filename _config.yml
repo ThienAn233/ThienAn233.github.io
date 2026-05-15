@@ -5,7 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: An Nguyen 🌽
 middle_name: 
-last_name: an0906946088@gmail.com
+last_name:
+email: an0906946088@gmail.com
 contact_note: >
   Please feel free to reach out to me via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
