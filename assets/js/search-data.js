@@ -17,14 +17,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-bookshelf",
-          title: "bookshelf",
+          title: "Bookshelf",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
