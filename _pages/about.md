@@ -33,11 +33,11 @@ latest_posts:
 
 Hi, I'm An🌽.
 
-Currently, I am pursuing a Ph.D. degree in Mechanical Engineering at [University of New Mexico](https://en.wikipedia.org/wiki/University_of_New_Mexico) (2026-Now) under the supervision of Dr. [Leilei Cui](https://lc-lab25.github.io/members/leilei-cui.html).
+Currently, I am pursuing a Ph.D. degree in Mechanical Engineering at [University of New Mexico](https://en.wikipedia.org/wiki/University_of_New_Mexico) (2026-Now) under the supervision of [Dr. Leilei Cui](https://lc-lab25.github.io/members/leilei-cui.html).
 
-I did my Master's degree in [Mechatronic Systems and Robotics](https://www.nmt.edu/academics/mecheng/graduate-1.php) at [New Mexico Tech](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology) (2024-2026) under the supervision of Dr. [Mostafa Hassanalian](https://sites.google.com/nmt.edu/afasl/home).
+I did my Master's degree in Mechatronic Systems and Robotics at [New Mexico Tech](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology) (2024-2026) under the supervision of [Dr. Mostafa Hassanalian](https://sites.google.com/nmt.edu/afasl/home).
 
-I graduated with honors from the [Mechanical Engineering program](https://fme.hcmut.edu.vn/) at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024).
+I graduated with honors from the Mechanical Engineering program at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024).
 
 My interests include the fundamentals of control theory, dynamical systems, and robotics 🔬.
 
