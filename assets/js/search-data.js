@@ -30,23 +30,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-ended-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2026",
-          title: 'Ended graduate study in Mechatronic Systems and Robotics at New Mexico Tech in...',
-          description: "",
-          section: "News",},{id: "news-started-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2024",
+            },},{id: "news-started-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2024",
           title: 'Started graduate study in Mechatronic Systems and Robotics at New Mexico Tech in...',
+          description: "",
+          section: "News",},{id: "news-ended-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2026",
+          title: 'Ended graduate study in Mechatronic Systems and Robotics at New Mexico Tech in...',
           description: "",
           section: "News",},{id: "news-started-graduate-study-in-mechanical-engineering-at-university-of-new-mexico-in-2026",
           title: 'Started graduate study in Mechanical Engineering at University of New Mexico in 2026....',
