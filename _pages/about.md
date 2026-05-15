@@ -24,7 +24,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -39,7 +39,7 @@ I did my Master's degree in Mechatronic Systems and Robotics at [New Mexico Tech
 
 I graduated with honors from the Mechanical Engineering program at [HCMUT](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology) (2021-2024).
 
-My interests include the fundamentals of control theory, dynamical systems, and robotics 🔬.
+My work focuses on optimization-based control, learning-based control, and their intersection applied to robotics and dynamical systems. 
 
 I love wandering 🚊, playing sports 🏊. I also enjoy cooking 🍜 and have a great passion for learning 📝.
 
