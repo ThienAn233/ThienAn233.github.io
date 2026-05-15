@@ -77,16 +77,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-ended-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2026",
+          title: 'Ended graduate study in Mechatronic Systems and Robotics at New Mexico Tech in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-graduate-study-in-mechatronic-systems-and-robotics-at-new-mexico-tech-in-2024",
+          title: 'Started graduate study in Mechatronic Systems and Robotics at New Mexico Tech in...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-graduate-study-in-mechanical-engineering-at-university-of-new-mexico-in-2026",
+          title: 'Started graduate study in Mechanical Engineering at University of New Mexico in 2026....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
