@@ -6,7 +6,7 @@ subtitle: <a href='#'>Control Theory</a>. <a href='#'>Robotics</a>. <a href='#'>
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>-🎓 PhD Mecheng UNM</p>
