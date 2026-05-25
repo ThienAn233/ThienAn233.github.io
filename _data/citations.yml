@@ -1,0 +1,35 @@
+metadata:
+  last_updated: '2026-05-25'
+papers:
+  DqTnhZ8AAAAJ:2osOgNQ5qMEC:
+    citations: 1
+    title: Modeling and Control of a Coaxial Monocopter via Moving Mass Actuation
+    year: '2025'
+  DqTnhZ8AAAAJ:9yKSN-GCB0IC:
+    citations: 2
+    title: Reinforcement Learning-Based Control of a Moving Mass Coaxial Monocopter Using Soft Actor-Critic (SAC) Algorithm
+    year: '2025'
+  DqTnhZ8AAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: "Relaxed Boundary Conditions in Poisson\u2013Nernst\u2013Planck Models: Identifying Critical Potentials for Multiple Cations"
+    year: '2025'
+  DqTnhZ8AAAAJ:MXK_kJrjxJIC:
+    citations: 1
+    title: Disturbance Resilient Path-Following for Unmanned Airships via Curvature-Aware LOS Guidance and Super-Twisting Terminal Sliding Mode Control
+    year: '2025'
+  DqTnhZ8AAAAJ:UeHWp8X0CEIC:
+    citations: 3
+    title: A Dynamics Predictor-Augmented Soft Actor-Critic for Attitude and Trajectory Control of Unmanned Airships
+    year: '2025'
+  DqTnhZ8AAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: Design and Experimental Validation of a Next-Generation Coaxial Monocopter
+    year: '2026'
+  DqTnhZ8AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Minimal Sensor Quadruped Locomotion Without Contact Models via Reinforcement Learning
+    year: '2026'
+  DqTnhZ8AAAAJ:u-x6o8ySG0sC:
+    citations: 0
+    title: Fatigue damage quantification for structural health monitoring of steel beam using cyclegan.
+    year: '2024'
