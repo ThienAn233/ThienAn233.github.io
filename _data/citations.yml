@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-17'
 papers:
   DqTnhZ8AAAAJ:2osOgNQ5qMEC:
-    citations: 1
+    citations: 2
     title: Modeling and Control of a Coaxial Monocopter via Moving Mass Actuation
     year: '2025'
   DqTnhZ8AAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 3
     title: Reinforcement Learning-Based Control of a Moving Mass Coaxial Monocopter Using Soft Actor-Critic (SAC) Algorithm
     year: '2025'
   DqTnhZ8AAAAJ:IjCSPb-OGe4C:
@@ -22,7 +22,7 @@ papers:
     title: A Dynamics Predictor-Augmented Soft Actor-Critic for Attitude and Trajectory Control of Unmanned Airships
     year: '2025'
   DqTnhZ8AAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Design and Experimental Validation of a Next-Generation Coaxial Monocopter
     year: '2026'
   DqTnhZ8AAAAJ:hqOjcs7Dif8C:
