@@ -17,20 +17,25 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-bookshelf",
-          title: "Bookshelf",
+          title: "bookshelf",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-teachings",
+          title: "teachings",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
+        },{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/intro2rl.html";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -91,12 +96,12 @@ ninja.data = [{
               window.location.href = "/projects/9_project.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          description: "Test.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals.html";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          description: "Test.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
