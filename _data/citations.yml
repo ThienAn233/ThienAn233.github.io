@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-29'
 papers:
   DqTnhZ8AAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: Modeling and Control of a Coaxial Monocopter via Moving Mass Actuation
     year: '2025'
+  DqTnhZ8AAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Design and Analysis of an EDF-Driven Monocopter UAV With Fin-Based Stabilization
+    year: '2026'
   DqTnhZ8AAAAJ:9yKSN-GCB0IC:
     citations: 3
     title: Reinforcement Learning-Based Control of a Moving Mass Coaxial Monocopter Using Soft Actor-Critic (SAC) Algorithm
