@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-12'
 papers:
   DqTnhZ8AAAAJ:2osOgNQ5qMEC:
     citations: 5
-    title: Modeling and Control of a Coaxial Monocopter via Moving Mass Actuation
+    title: Modeling and control of a coaxial monocopter via moving mass actuation
     year: '2025'
   DqTnhZ8AAAAJ:3fE2CSJIrl8C:
     citations: 1
@@ -11,15 +11,11 @@ papers:
     year: '2026'
   DqTnhZ8AAAAJ:9yKSN-GCB0IC:
     citations: 5
-    title: Reinforcement Learning-Based Control of a Moving Mass Coaxial Monocopter Using Soft Actor-Critic (SAC) Algorithm
+    title: Reinforcement learning-based control of a moving mass coaxial monocopter using soft actor-critic (sac) algorithm
     year: '2025'
   DqTnhZ8AAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: "Relaxed Boundary Conditions in Poisson\u2013Nernst\u2013Planck Models: Identifying Critical Potentials for Multiple Cations"
-    year: '2025'
-  DqTnhZ8AAAAJ:KlAtU1dfN6UC:
-    citations: 0
-    title: A Study on Design, Simulation and Dynamic Properties of a Moving Mass Coaxial Monocopter
     year: '2025'
   DqTnhZ8AAAAJ:MXK_kJrjxJIC:
     citations: 1
@@ -27,7 +23,7 @@ papers:
     year: '2025'
   DqTnhZ8AAAAJ:UeHWp8X0CEIC:
     citations: 4
-    title: A Dynamics Predictor-Augmented Soft Actor-Critic for Attitude and Trajectory Control of Unmanned Airships
+    title: A dynamics predictor-augmented soft actor-critic for attitude and trajectory control of unmanned airships
     year: '2025'
   DqTnhZ8AAAAJ:UebtZRa9Y70C:
     citations: 3
@@ -45,7 +41,3 @@ papers:
     citations: 0
     title: Trajectory Optimization and Learning-Based Control for Ground and Aerial Robots in Challenging Environments
     year: '2026'
-  DqTnhZ8AAAAJ:u-x6o8ySG0sC:
-    citations: 0
-    title: Fatigue damage quantification for structural health monitoring of steel beam using cyclegan.
-    year: '2024'
