@@ -8,8 +8,8 @@ nav_order: 4
 calendar: true
 ---
 
-A collection of courses with detailed schedules, materials, and resources.
+<!-- A collection of courses with detailed schedules, materials, and resources.
 
 {% include calendar.liquid calendar_id='an0906946088@gmail.com' timezone='America/Mountain' %}
 
-{% include courses.liquid %}
+{% include courses.liquid %} -->
