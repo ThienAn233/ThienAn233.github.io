@@ -433,6 +433,19 @@ This Jekyll theme implements [collections](https://jekyllrb.com/docs/collections
 
 You can easily create your own collections for any type of content—teaching materials, courses, apps, short stories, or whatever suits your needs.
 
+### Adding a PDF to a bookshelf entry
+
+Copy your PDF into `assets/pdf/`, then add its path to the metadata between the `---` lines in any `_books/*.md` entry that uses `layout: book-review`:
+
+```yaml
+pdf: /assets/pdf/my-book.pdf
+pdf_title: Read the book # optional; for example, "My reading notes"
+```
+
+The cover on the bookshelf still opens the book's page, where the PDF appears beneath the review with open and download links. The reader uses the browser's PDF viewer; controls and inline support vary by browser. A direct link is always available on devices that cannot show the embedded document. Entries without `pdf` keep their existing layout.
+
+To add a new book, copy `_books/the_godfather.md`, give it a new filename, and replace its metadata and review. Update `title`, `author`, `cover`, `date`, and `started`; remove any ratings, links, or other details that do not apply. Add the `pdf` field as shown above. Keep local PDF paths rooted at `/assets/pdf/`; Jekyll adds the site's `baseurl` automatically.
+
 ### Creating a new collection
 
 To create a new collection, follow these steps. We will create a `courses` collection, but you can replace `courses` with any name you prefer:

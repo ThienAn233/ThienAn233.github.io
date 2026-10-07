@@ -259,3 +259,157 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+
+// Book reviews and PDF reader
+
+.book-shelf-title {
+  display: block;
+  max-width: 155px;
+  margin-top: 0.5rem;
+  color: var(--global-text-color);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.book-review {
+  .book-review-content {
+    display: flow-root;
+  }
+
+  .book-review-figure {
+    width: 300px;
+    max-width: 100%;
+    margin: 0 auto 1.5rem;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
+
+    figcaption {
+      margin-top: 0.65rem;
+      font-size: 0.8rem;
+    }
+  }
+
+  @media (min-width: 600px) {
+    .book-review-figure {
+      float: right;
+      margin: 0 0 1.5rem 2rem;
+    }
+
+    .empty-review {
+      float: left;
+      width: 250px;
+      margin: 0 2rem 1.5rem 0;
+    }
+
+    .mobile-break {
+      display: none;
+    }
+  }
+}
+
+.book-reader {
+  clear: both;
+  margin-top: 2.5rem;
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+  scroll-margin-top: 6rem;
+
+  .book-reader-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .book-reader-label {
+    margin: 0 0 0.35rem;
+    color: var(--global-theme-color);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 1.4rem;
+  }
+
+  .book-reader-book-title {
+    margin: 0.4rem 0 0;
+    font-size: 0.9rem;
+  }
+
+  .book-reader-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      min-height: 44px;
+      padding: 0.6rem 1rem;
+      border: 1px solid var(--global-divider-color);
+      border-radius: 6px;
+      color: var(--global-text-color);
+      font-size: 0.85rem;
+
+      &:hover {
+        border-color: var(--global-theme-color);
+        text-decoration: none;
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--global-theme-color);
+        outline-offset: 3px;
+      }
+    }
+
+    .book-reader-open {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+    }
+  }
+
+  .book-reader-frame {
+    display: block;
+    width: 100%;
+    height: 78vh;
+    min-height: 420px;
+    max-height: 1000px;
+    border: 0;
+    background: var(--global-bg-color);
+  }
+
+  .book-reader-help {
+    margin: 0;
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--global-divider-color);
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 575px) {
+    .book-reader-toolbar {
+      padding: 1.1rem;
+    }
+
+    .book-reader-frame {
+      height: 70vh;
+      min-height: 320px;
+    }
+  }
+}

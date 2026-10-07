@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Reinforcement Learning: An Introduction
+title: "Reinforcement Learning: An Introduction"
 author: Richard S. Sutton and Andrew G. Barto
 cover: assets/img/book_covers/intro2rl.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)

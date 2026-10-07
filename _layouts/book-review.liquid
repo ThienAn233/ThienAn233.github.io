@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-{% assign year = page.started | date: '%Y' %}
+{% assign year = page.started | default: page.date | date: '%Y' %}
 {% assign tags = page.tags | join: '' %}
 {% assign categories = page.categories | join: '' %}
+{% assign book_pdf = page.pdf | default: '' | strip %}
+{% assign book_archives = site['jekyll-archives'].books.enabled %}
 
 {% if page._styles %}
   <!-- Page/Post style -->
@@ -12,7 +14,7 @@ layout: default
   </style>
 {% endif %}
 
-<div class="post">
+<div class="post book-review">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.author or page.released %}
@@ -77,11 +79,15 @@ layout: default
       </p>
     {% endif %}
     <p class="post-tags">
-      <a href="{{ year | prepend: '/books/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
+      <a href="{{ '/books/' | relative_url }}#y{{ year }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
       {% if tags != '' %}
         &nbsp;&middot;&nbsp;
         {% for tag in page.tags %}
-          <a href="{{ tag | slugify | prepend: '/books/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
+          {% if book_archives contains 'tags' %}
+            <a href="{{ tag | slugify | prepend: '/books/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
+          {% else %}
+            <span><i class="fa-solid fa-hashtag fa-sm" aria-hidden="true"></i> {{ tag }}</span>
+          {% endif %}
           {% unless forloop.last %}
             &nbsp;
           {% endunless %}
@@ -91,21 +97,30 @@ layout: default
       {% if categories != '' %}
         &nbsp;&middot;&nbsp;
         {% for category in page.categories %}
-          <a href="{{ category | slugify | prepend: '/books/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
+          {% if book_archives contains 'categories' %}
+            <a href="{{ category | slugify | prepend: '/books/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
+          {% else %}
+            <span><i class="fa-solid fa-tag fa-sm" aria-hidden="true"></i> {{ category }}</span>
+          {% endif %}
           {% unless forloop.last %}
             &nbsp;
           {% endunless %}
         {% endfor %}
       {% endif %}
     </p>
+    {% if book_pdf != '' %}
+      <p>
+        <a href="#book-reader">Read PDF <span aria-hidden="true">&darr;</span></a>
+      </p>
+    {% endif %}
     <hr>
   </header>
 
-  <article>
+  <article class="book-review-content">
     {% if content == '' %}
-      <figure class="empty-review">
+      <figure class="book-review-figure empty-review">
         {% if page.cover %}
-          <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
+          <img class="empty-review-cover" alt="{{ page.title | escape }} cover" src="{{ page.cover | relative_url }}">
           <figcaption class="empty-review-caption">
             Cover of <em>{{ page.title }}</em>
           </figcaption>
@@ -134,9 +149,9 @@ layout: default
         <h4>{{ status }}</h4>
       </div>
     {% else %}
-      <figure>
+      <figure class="book-review-figure">
         {% if page.cover %}
-          <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
+          <img alt="{{ page.title | escape }} cover" src="{{ page.cover | relative_url }}">
           <figcaption>
             Cover of <em>{{ page.title }}</em>
           </figcaption>
@@ -161,105 +176,11 @@ layout: default
     {% endif %}
   </article>
 
+  {% if book_pdf != '' %}
+    {% include book-reader.liquid pdf=book_pdf %}
+  {% endif %}
+
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
 </div>
-
-<style>
-      figure {
-        float: none;
-        width: auto;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-
-      }
-      figure  > img {
-
-           vertical-align: top;
-           display: block;
-           margin-right: 0px;
-           margin-left: 0px;
-           padding: 0px;
-
-      }
-      figure figcaption {
-
-        display: block;
-        caption-side: bottom;
-        text-align: center;
-      }
-
-      @media screen and (min-width: 600px)  {
-
-        .empty-review{
-          float: left;
-          display: block; /* in-line block; */
-          margin: 0px 0px 0px 0px;  /* adjust as needed */
-          padding: 0px 0px 0px 20px;
-         /* top right bottom left */
-          }
-
-         .empty-review-caption {
-                  caption-side: left;
-                  text-align: left;
-
-
-                  }
-
-          .empty-review-cover {
-              width:250px;
-              vertical-align: top;
-              padding-right: 40px;
-              }
-
-          figure {
-
-                float: right;
-                display: in-line block; /* in-line block; */
-                margin: 0px 0px 0px 0px;  /* adjust as needed */
-                padding: 0px 0px 0px 20px;
-               /* top right bottom left */
-              }
-
-          figure img {
-                  width:300px;
-                  vertical-align: top;
-
-                }
-
-          figure figcaption {
-                  caption-side: bottom;
-                  text-align: left;
-
-                  }
-
-          .mobile-break { display: none; }
-
-  /* =Blockquote
-  -------------------------------------------------------------- */
-  blockquote {
-
-      position: relative;
-      marign: 0px;
-      display: table;
-
-  }
-  blockquote:before, blockquote:after {
-
-   /* properties to format the block quotes /*
-
-  }
-  blockquote:before {
-      top: 0;
-      left: 0;
-
-
-  }
-  blockquote:after {
-      top: 0;
-      right: 0;
-
-  }
-</style>

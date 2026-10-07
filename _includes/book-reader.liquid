@@ -1,0 +1,27 @@
+{% assign pdf_url = include.pdf | relative_url %}
+{% assign pdf_heading = page.pdf_title | default: 'Read the book' %}
+{% assign pdf_embed_url = pdf_url %}
+{% unless pdf_url contains '#' %}
+  {% assign pdf_embed_url = pdf_url | append: '#view=Fit' %}
+{% endunless %}
+
+<section class="book-reader" id="book-reader" aria-labelledby="book-reader-title">
+  <div class="book-reader-toolbar">
+    <div>
+      <p class="book-reader-label">On the bookshelf</p>
+      <h2 id="book-reader-title">{{ pdf_heading | escape }}</h2>
+      <p class="book-reader-book-title">{{ page.title | escape }}</p>
+    </div>
+    <div class="book-reader-actions">
+      <a class="book-reader-open" href="{{ pdf_url | escape }}" target="_blank" rel="noopener noreferrer">
+        Open PDF <span class="sr-only">in a new tab</span><span aria-hidden="true">&nearr;</span>
+      </a>
+      <a href="{{ pdf_url | escape }}" download>Download <span class="sr-only">PDF</span><span aria-hidden="true">&darr;</span></a>
+    </div>
+  </div>
+  <iframe class="book-reader-frame" src="{{ pdf_embed_url | escape }}" title="{{ page.title | escape }} — PDF reader" loading="lazy"></iframe>
+  <p class="book-reader-help">
+    If the reader is unavailable on your device,
+    <a href="{{ pdf_url | escape }}" target="_blank" rel="noopener noreferrer">open the PDF in a new tab</a>.
+  </p>
+</section>
