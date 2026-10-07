@@ -445,7 +445,7 @@ pdf_title: Read the book # optional; for example, "My reading notes"
 
 The cover on the bookshelf still opens the book's page, where the PDF appears beneath the review with open and download links. The reader uses the browser's PDF viewer; controls and inline support vary by browser. A direct link is always available on devices that cannot show the embedded document. Entries without `pdf` keep their existing layout.
 
-To add a new book, copy `_books/the_godfather.md`, give it a new filename, and replace its metadata and review. Update `title`, `author`, `cover`, `date`, and `started`; remove any ratings, links, or other details that do not apply. Add the `pdf` field as shown above. Keep local PDF paths rooted at `/assets/pdf/`; Jekyll adds the site's `baseurl` automatically.
+To add a new book, copy `_books/carothers-calculus-review.md`, give it a new filename, and replace its metadata and notes. Update `title`, `cover`, `date`, and `pdf`; add `author` and reading dates only when they apply. The shelf groups entries by `started` when present, or by their added `date` otherwise. Keep local PDF paths rooted at `/assets/pdf/`; Jekyll adds the site's `baseurl` automatically.
 
 ### Creating a new collection
 
