@@ -33,6 +33,7 @@ Here we will give you some tips on how to customize the website. One important t
   - [Creating new projects](#creating-new-projects)
   - [Adding some news](#adding-some-news)
   - [Adding Collections](#adding-collections)
+    - [Adding a PDF to a bookshelf entry](#adding-a-pdf-to-a-bookshelf-entry)
     - [Creating a new collection](#creating-a-new-collection)
     - [Using frontmatter fields in your collection](#using-frontmatter-fields-in-your-collection)
     - [Creating a teachings collection](#creating-a-teachings-collection)
