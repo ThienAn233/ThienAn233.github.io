@@ -32,14 +32,9 @@ ninja.data = [{
           },
         },{id: "books-reinforcement-learning-an-introduction",
           title: 'Reinforcement Learning: An Introduction',
-          description: "",
+          description: "A foundational introduction to reinforcement learning, from tabular methods to function approximation.",
           section: "Books",handler: () => {
               window.location.href = "/books/intro2rl.html";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
             },},{id: "books-real-analysis-calculus-review",
           title: 'Real Analysis: Calculus Review',
           description: "Reference notes for Chapter 1 of N. L. Carothers&#39;s Real Analysis.",
