@@ -30,18 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-reinforcement-learning-an-introduction",
-          title: 'Reinforcement Learning: An Introduction',
+        },{id: "books-reinforcement-learning-an-introduction-richard-s-sutton",
+          title: 'Reinforcement Learning: An Introduction — Richard S. Sutton',
           description: "A foundational introduction to reinforcement learning, from tabular methods to function approximation.",
           section: "Books",handler: () => {
               window.location.href = "/books/intro2rl.html";
-            },},{id: "books-real-analysis-calculus-review",
-          title: 'Real Analysis: Calculus Review',
-          description: "Reference notes for Chapter 1 of N. L. Carothers&#39;s Real Analysis.",
+            },},{id: "books-real-analysis-neal-l-carothers",
+          title: 'Real Analysis — Neal L. Carothers',
+          description: "A concise reference for Part I of N. L. Carothers&#39;s Real Analysis, focused on metric spaces.",
           section: "Books",handler: () => {
               window.location.href = "/books/carothers-calculus-review.html";
-            },},{id: "books-measure-theory-course-reference",
-          title: 'Measure Theory: Course Reference',
+            },},{id: "books-measure-theory-claudio-landim",
+          title: 'Measure Theory — Claudio Landim',
           description: "Reference notes following Claudio Landim&#39;s measure theory course at IMPA.",
           section: "Books",handler: () => {
               window.location.href = "/books/landim-measure-theory.html";
