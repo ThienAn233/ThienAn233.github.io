@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: "Measure Theory: Course Reference"
+title: Measure Theory — Claudio Landim
 description: Reference notes following Claudio Landim's measure theory course at IMPA.
 cover: assets/img/book_covers/landim-measure-theory.png
 categories: mathematics

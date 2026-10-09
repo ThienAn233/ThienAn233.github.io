@@ -41,9 +41,7 @@ layout: page
           {% else %}
             <figcaption class="uncategorized">BOOK</figcaption>
           {% endif %}
-          {% if item.pdf %}
-            <span class="book-shelf-title">{{ item.title | escape }}</span>
-          {% endif %}
+          <span class="book-shelf-title">{{ item.title | escape }}</span>
         </a>
       </figure>
       {% if forloop.last %}

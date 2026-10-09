@@ -1,15 +1,15 @@
 ---
 layout: book-review
-title: "Real Analysis: Calculus Review"
-description: Reference notes for Chapter 1 of N. L. Carothers's Real Analysis.
+title: Real Analysis — Neal L. Carothers
+description: A concise reference for Part I of N. L. Carothers's Real Analysis, focused on metric spaces.
 cover: assets/img/book_covers/carothers-calculus-review.png
 categories: mathematics
-tags: real-analysis calculus
+tags: [real-analysis, metric-spaces, topology]
 date: 2026-10-07
 pdf: /assets/pdf/books/carothers-calculus-review.pdf
-pdf_title: Chapter 1 reference notes
+pdf_title: Part I reference notes
 ---
 
-A 23-page reference for **Chapter 1: Calculus Review** from _Real Analysis_ by N. L. Carothers. These notes collect definitions, theorems, and exercise consequences without proofs.
+A 35-page reference for **Part I: Metric Spaces** from _Real Analysis_ by Neal L. Carothers. These notes collect definitions, theorem statements, and selected exercise consequences in a concise format.
 
-Topics include completeness of the real numbers, sequences and series, limits, and continuity. The PDF includes a contents page and an exercise coverage index.
+Topics include the real numbers, metric spaces, continuity, connectedness, completeness, and compactness.

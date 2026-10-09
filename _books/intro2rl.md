@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: "Reinforcement Learning: An Introduction"
+title: "Reinforcement Learning: An Introduction — Richard S. Sutton"
 author: Richard S. Sutton and Andrew G. Barto
 description: A foundational introduction to reinforcement learning, from tabular methods to function approximation.
 cover: assets/img/book_covers/intro2rl.jpg
